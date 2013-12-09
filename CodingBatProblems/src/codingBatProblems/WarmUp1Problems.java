@@ -438,7 +438,6 @@ public class WarmUp1Problems {
 		      }
 		   
 		}
-
 	/**
 	 * Warmup-1 > lastDigit 
 	 */
@@ -478,6 +477,5 @@ public class WarmUp1Problems {
 		  }
 		  return solution;
 		}
-
 
 }
